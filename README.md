@@ -12,3 +12,5 @@ The fourth tab is a search tab that gives the user the freedom to search for any
 
 The last tab filters out movies based on Genre selected. The user can see a list of genres on top of the page and once a genre is selected, only movies that 
 pretain to that genre are presented to the user.
+
+screenshots of app can be found in ss.pdf in the repo
